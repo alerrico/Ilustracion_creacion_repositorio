@@ -8,32 +8,5 @@ Esta es la modificación desde un usuario en cualquier parte del mundo.
 Esta es la modificación desde la rama_ejemplo.
 
 Esta es la modificación desde la rama_ejemplo desde github.
-     ^ 
-            ,' \                
-            L""/ 
-            ` |                  
-            J | 
-            J L                
-            | | .  ,            
-            | | `v_L.' 
-           // ,>'--\'_           
-           \`' \ - /-.           
-           /   /`""|             
-            ),'    `- 
-           (    ,-'  \          
-            ) ,' ,'   h          
-           / /  /     `)--..     
-           \/  /       \  <)     
-            <        ,  L<'      
-            F/     _/  ,'        
-            L   ,-'     \ 
-            |         ___L       
-           /         (  F 
-          J      ___,'  L       
-          |    ,'       | 
-          F  ,'         | 
-         (_,--..__  mt-2|_ 
-        ,'        `"`--.._\ 
-      ,' /                 \ 
-     /                     (_ 
-    [snip - .sig of Matthew Thomas]
+
+:)
